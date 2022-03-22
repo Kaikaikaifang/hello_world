@@ -9,3 +9,4 @@ Fast forward
 fix bug 101
 Git stash
 second git stash test
+git switch
