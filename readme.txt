@@ -12,3 +12,4 @@ second git stash test
 git switch
 diff test
 git revert
+git switch
